@@ -1,53 +1,53 @@
-﻿body{
+﻿body {
     background-color: #5F9EA0;
 }
 
-.board{
+.board {
     border-collapse: collapse;
 }
 
-.board tr td{
+.board tr td {
     width: 26px;
     height: 26px;
 }
 
-.board tr td img{
+.board tr td img {
     vertical-align: middle;
 }
 
-#task{
+#task {
     margin: 100px;
 }
 
-#task td{
+#task td {
     margin: 50px;
 }
 
-#task p{
+#task p {
     width: 500px;
     text-align: justify;
 }
 
-#solution table, #solution h1, #task table, #footer h4{
+#solution table, #solution h1, #task table, #footer h4 {
     margin: auto;
     text-align: center;
     color: #004D40;
     text-shadow: 1px 1px grey;
 }
 
-#footer h4{
+#footer h4 {
     margin-top: 50px;
     margin-bottom: 25px;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-a:visited{
+a:visited {
     color: #004D40;
 }
 
-a:hover, #solution h1 b{
+a:hover, #solution h1 b {
     color: #0259CA;
 }
